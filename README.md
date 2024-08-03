@@ -1,4 +1,4 @@
-Blackmagic Design DaVinci Resolve Studio 19 PUBLIC BETA 4
+# Blackmagic Design DaVinci Resolve Studio 19 PUBLIC BETA 4
            
 DaVinci Resolve is the world's only solution for editing and color correction, visual effects, graphics and audio post-processing in a single software environment. With us you will get (2024 edition) LEGAL and FREE!
 
